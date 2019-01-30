@@ -1,0 +1,17 @@
+name: bayesian
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - pymc3
+  - pytest
+  - pytest-cov
+  - pytest-flake8
+  - pytest-pylint
+  - python=3.7
+  - scikit-learn
+  - scipy
